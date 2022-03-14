@@ -1,6 +1,6 @@
 # College Board AP Test Prep Notes:
 
-## 5.1 Notes  
+## 5.1 Notes (Benfits and harms) 
 ### How can a computing innovation be both beneficial and harmful?  
 Examples of beneficial and harmful effects:  
 Multirotor:  
@@ -36,6 +36,6 @@ Harmful Effects of computing:
    2. Addictive, "dopamine feedback loops", constant desire to check phone/computer
    3. Digital divide, lack of opportunities and struggles to succeed in a "new world"
 
-## 5.2 Notes
+## 5.2 Notes (Digital Divide)  
 ### What is the digital divide? 
 
