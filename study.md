@@ -11,6 +11,7 @@ Multirotor:
   2. Harmful:  
        i. Flying in unregulated zones  
        ii. Privacy concerns  
+
 ### How can a computer innovation have an impact beyond it's intended purpose?  
 Dopamine feedback loops on the internet:  
    1. Reliance on internet for dopamine  
@@ -32,5 +33,9 @@ Beneficial effects of computing:
 
 Harmful Effects of computing: 
    1. Malware and stealing of personal information, privacy issues. 
-   2. Addictive, "dopamine feedback loops", constant desire to check phone/computer.
-   3. Health, mentally is straining, physically can lead to weight gain, wrist issues, back problems, etc.
+   2. Addictive, "dopamine feedback loops", constant desire to check phone/computer
+   3. Digital divide, lack of opportunities and struggles to succeed in a "new world"
+
+## 5.2 Notes
+### What is the digital divide? 
+
