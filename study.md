@@ -51,12 +51,12 @@ How can this issue be solved?:
 
 ### Github Pages Action:  
 How does someone empower themselves in a digital world?  
-They need access to a digital world and the opportunities to learn how to use and connect to their devices freely so they are prepared for a current and upcoming digital age
+   1. They need access to a digital world and the opportunities to learn how to use and connect to their devices freely so they are prepared for a current and upcoming digital age
 
 How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS:  
-Del Norte supplies chrome books to all students who check them out in the library with their student ID allowing internet access and access of internet resources to be equal amongst students. I personally could help students learn how to use different aspects of their chrome books after checking them out in order to fix or assist with any accessibility of functionality issues. 
+   1. Del Norte supplies chrome books to all students who check them out in the library with their student ID allowing internet access and access of internet resources to be equal amongst students. I personally could help students learn how to use different aspects of their chrome books after checking them out in order to fix or assist with any accessibility of functionality issues. 
 
 Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?  
-No, allowing accessibility and choice in work styles and tools allows for individual learning to be easy for students as they can use what works best for them. Many classes do not offer this option and you are required to use paper for note taking. This is definitely an issue that occurs practically everywhere due to preferences of teachers taking priority over students. 
+   1. No, allowing accessibility and choice in work styles and tools allows for individual learning to be easy for students as they can use what works best for them. Many classes do not offer this option and you are required to use paper for note taking. This is definitely an issue that occurs practically everywhere due to preferences of teachers taking priority over students. 
 
 
