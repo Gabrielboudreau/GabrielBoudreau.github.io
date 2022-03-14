@@ -37,5 +37,15 @@ Harmful Effects of computing:
    3. Digital divide, lack of opportunities and struggles to succeed in a "new world"
 
 ## 5.2 Notes (Digital Divide)  
-### What is the digital divide? 
+### What is the digital divide?  
+Reasons why you may not have access to the internet:
+   1. Socioeconomic
+   2. Geographic
+   3. Age
+   4. Religion
+
+In some countries the internet is regulated to citizens so it is not used against government
+
+How can this issue be solved?:
+   One way to help solve this issue to try to allow access to all people who want to access it, and keep a level playing field
 
