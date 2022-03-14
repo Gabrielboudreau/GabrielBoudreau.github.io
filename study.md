@@ -7,7 +7,7 @@ Multirotor:
   Benfits:  
     Delivery's
     Lost person searches
-    photography
+    photography  
   Harmful: 
     Flying in unregulated zones
     Privacy concerns
