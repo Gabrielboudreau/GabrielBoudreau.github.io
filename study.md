@@ -61,4 +61,20 @@ How does someone that is empowered help someone that is not empowered? Describe 
 Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?  
    1. No, allowing accessibility and choice in work styles and tools allows for individual learning to be easy for students as they can use what works best for them. Many classes do not offer this option and you are required to use paper for note taking. This is definitely an issue that occurs practically everywhere due to preferences of teachers taking priority over students. 
 
+## 5.3 Notes (Computing Bias)
+### What is bias in computing?  
 
+Example 1 (Netlfix):  
+   1. Explicit data is aquired by user input (Name, adress, whether you like a show)  
+   2. Implicit data is aquired through user actions (What you watch most, type of show, etc.)  
+   3. Bias  
+      1. Netflix originals are shown to you first so they maintain subscriptions  
+      2. Bias based off of implicit and explicit to keep you interested  
+
+Biases can be programmed to reflect trends. This can assist in targetting by age, interests, gender, race, etc.  
+Certain in game elements, types of advertisements, etc. can be targetted towards certain groups (COD is more appealing to teenage boys)  
+Certain groups want to be diverse (ex: instagram vs facebook)  
+
+
+Enhancing or excluding?  
+Intentionally harming or hurting?  
