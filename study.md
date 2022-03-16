@@ -80,6 +80,8 @@ Enhancing or excluding?
 Intentionally harming or hurting?  
 
 ### Github Pages Action: 
+The following questions are based off of [this video](https://www.youtube.com/watch?v=t4DT3tQqgRM)  
+
 Does the owner of the computer think this was intentional?:  
    No, the owner doesn't think it was intentional  
    
