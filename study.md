@@ -97,3 +97,6 @@ Should it be corrected?:
    
 What would you or should you do to produce a better outcome?:  
    Allow for more extensive testing and crowdsourcing  
+
+## 5.4 Notes (Crowdsourcing)
+### How does crowdsourcing extend your reach across the internet? 
