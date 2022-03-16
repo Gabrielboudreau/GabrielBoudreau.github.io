@@ -78,3 +78,22 @@ Certain groups want to be diverse (ex: instagram vs facebook)
 
 Enhancing or excluding?  
 Intentionally harming or hurting?  
+
+### Github Pages Action: 
+Does the owner of the computer think this was intentional?:  
+   No, the owner doesn't think it was intentional  
+   
+If yes or no, justify you conclusion.:  
+   The owner seems to recoginze that it was an oversight in the programming and seemed annoyed but understanding about it happening. 
+   
+How do you think this happened?:  
+   There was a lack of software testing into the camera function and all testing was likely done on exclusivly white people. 
+   
+Is this harmful? Was it intended to be harmful or exclude?:  
+   It is harmful due to accessibility issues and an oversight involving racial issues, however it was not intended to cause harm and wasn't intentional  
+   
+Should it be corrected?:  
+   Yes, the developer should update the program through the computer or offer a return on the computer to those having this issue.  
+   
+What would you or should you do to produce a better outcome?:  
+   Allow for more extensive testing and crowdsourcing  
