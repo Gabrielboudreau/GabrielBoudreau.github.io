@@ -101,4 +101,28 @@ What would you or should you do to produce a better outcome?:
    Allow for more extensive testing and crowdsourcing  
 
 ## 5.4 Notes (Crowdsourcing)
-### How does crowdsourcing extend your reach across the internet? 
+### How does crowdsourcing extend your reach across the internet?  
+
+Public Data Sets (Kaggle)  
+   1. Courses in Visualization
+   2. Cash Prizes
+   3. Notebooks for code
+
+Google Public Data Sets  
+   1. Free for 1Tb
+   2. All in one package using BigQuery
+
+Data.gov
+   1. US government data
+   2. Agriculture, energy, water, health
+
+Crowdsourcing (Spotify) ex:
+   1. Collaborative playlists
+   2. Algorithm
+   3. Metadata write-in
+   4. Crowdfunding
+      1. Kickstarter
+      2. IndieGoGo
+   5. Blockchain
+      1. crypto
+      2. other tokens 
