@@ -14,8 +14,8 @@ def sub_menu():
     print('4 -- Exit')
     subOptions()
 
-def sub_menu1():
-    print('1 -- Fibonacci')
+def submenu1():
+    print('1 -- Factorial', )
     print('2 -- Lists')
     print('3 -- Exit')
     suboptions1()
@@ -49,9 +49,13 @@ def suboptions1():
             option = int(input('Enter your choice 1-4: '))
 
             if option == 1:
-              tester1()
+              lists.tester1()
+              time.sleep(2)
+              menu()
             elif option == 2:
-              tester()
+              lists.tester()
+              time.sleep(2)
+              menu()
             elif option == 3:  
                 print('Goodbye!')
                 exit() 
