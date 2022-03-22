@@ -126,3 +126,6 @@ Crowdsourcing (Spotify) ex:
    5. Blockchain
       1. crypto
       2. other tokens 
+### Github Pages Action: 
+1. For our class we could make a class github repo in which code could be share and utilized between students to help with certain aspects of programming. 
+2. A crowdsourcing idea would be to create a forum where students could come together and study or work.
