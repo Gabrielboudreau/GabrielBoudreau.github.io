@@ -1,3 +1,4 @@
 # Menu Project
 
-<center><iframe frameborder="0" width="125%" height="1200px" src="https://replit.com/@GabrielBoudreau/projectdocpy#main.py?lite=true"></iframe></center>
+[TT0 menu](https://replit.com/@GabrielBoudreau/TT0#main.py)  
+[TT1 menu](https://replit.com/@GabrielBoudreau/TT1#main.py)  
