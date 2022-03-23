@@ -1,5 +1,5 @@
 import time
-import lists
+from python_projects import lists
 def menu():
     print('1 -- Swap Numbers' )
     print('2 -- Animation' )
