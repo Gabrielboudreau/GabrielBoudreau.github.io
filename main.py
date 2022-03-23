@@ -17,7 +17,8 @@ def sub_menu():
 def submenu1():
     print('1 -- Factorial', )
     print('2 -- Lists')
-    print('3 -- Exit')
+    print('3 -- Fibonacci')
+    print('4 -- Exit')
     suboptions1()
 
 def num_swap():
@@ -56,7 +57,11 @@ def suboptions1():
               lists.tester()
               time.sleep(2)
               menu()
-            elif option == 3:  
+            elif option == 3:
+              lists.fibonacci()
+              time.sleep(2)
+              menu()
+            elif option == 4:  
                 print('Goodbye!')
                 exit() 
             else:
