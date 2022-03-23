@@ -75,32 +75,4 @@ def recursive_loop(n):
     return # exit condition
 
 # Factorial of a number using recursion
-def recur_factorial(n):
-    if n == 1 or n == 0:
-        return 1
-    else:
-        return n * recur_factorial(n-1)
-
-# this is test driver or code that plays when executed directly, versus import which will not run these statements
-def tester1():
-    num = int(input("Enter a number for factorial: "))
-    # check if the number is negative
-    if num < 0:
-        print("Sorry, factorial does not exist for negative numbers")
-    else:
-        print("The factorial of", num, "is", recur_factorial(num))
-def fibonacci():
-  num = int(input("Enter sequence length: "))
-  if num < 0:
-    print("Enter a number greater than 0")
-  else:
-    for n in range(num):
-      print(print_fib(n))
-
-def print_fib(i):
-  if i <= 1:  
-     return i  
-  else:  
-     return(print_fib(i-2) + print_fib(i-1))
-
 
