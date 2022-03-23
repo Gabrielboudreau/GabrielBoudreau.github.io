@@ -1,6 +1,6 @@
 import time
 from TT1 import lists
-from TT1 import loops
+from TT1 import factorial
 from TT1 import fibonacci
 def menu():
     print('1 -- Swap Numbers' )
@@ -52,7 +52,7 @@ def suboptions1():
             option = int(input('Enter your choice 1-4: '))
 
             if option == 1:
-              lists.tester1()
+              factorial.tester1()
               time.sleep(2)
               menu()
             elif option == 2:
@@ -60,7 +60,7 @@ def suboptions1():
               time.sleep(2)
               menu()
             elif option == 3:
-              lists.fibonacci()
+              fibonacci.fibonacci()
               time.sleep(2)
               menu()
             elif option == 4:  
