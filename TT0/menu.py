@@ -1,5 +1,7 @@
 import time
 from TT1 import lists
+from TT1 import loops
+from TT1 import fibonacci
 def menu():
     print('1 -- Swap Numbers' )
     print('2 -- Animation' )
