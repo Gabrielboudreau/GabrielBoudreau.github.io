@@ -1,5 +1,4 @@
 import time
-from TT0 import animation
 from TT1 import lists
 from TT1 import factorial
 from TT1 import fibonacci
@@ -99,7 +98,7 @@ def runOptions():
             if option == 1:
                 num_swap()
             elif option == 2:
-                animation.ship()
+                animation()
                 menu()    
             elif option == 3:
               submenu1()
