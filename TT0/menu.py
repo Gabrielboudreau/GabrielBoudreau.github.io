@@ -1,7 +1,8 @@
 import time
-from TT1 import lists
-from TT1 import factorial
 from TT1 import fibonacci
+from TT1 import lists
+from TT2 import factorial
+
 def menu():
     print('1 -- Swap Numbers' )
     print('2 -- Animation' )
