@@ -141,3 +141,6 @@ def ship():
     for position in range(start, distance, step):
         ship_print(position) 
         time.sleep(.1)
+
+if __name__ == "__main__":
+  menu()        
