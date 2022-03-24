@@ -97,7 +97,7 @@ def runMathOptions():
             elif option == 3:
               fibonacci.fibonacci()
             elif option == 4:
-              primes.primes()  
+              primes.gcd()  
             elif option == 5:  
                 print('Goodbye!')
                 exit() 
