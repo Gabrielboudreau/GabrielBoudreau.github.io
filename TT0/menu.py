@@ -2,7 +2,7 @@ import time
 from TT1 import fibonacci
 from TT1 import lists
 from TT2 import factorial
-from TT2 import primes
+from TT2 import GCD
 
 def menu():
     print('1 -- Math' )
@@ -99,7 +99,7 @@ def runMathOptions():
               fibonacci.fibonacci()
               menu()
             elif option == 4:
-              primes.gcd()
+              GCD.gcd()
               menu()
             elif option == 5:  
                 print('Goodbye!')
