@@ -15,7 +15,7 @@ def mathMenu():
     print('1 -- Swap Numbers' )
     print('2 -- Factorial' )
     print('3 -- Fibonacci')
-    print('4 -- Primes')
+    print('4 -- GCD')
     print('5 -- Exit' )
     runMathOptions()
   
@@ -70,7 +70,7 @@ def subOptions():
 def runOptions():
     while True:
         try:
-            option = int(input('Enter your choice 1-3: '))
+            option = int(input('Enter your choice 1-4: '))
             if option == 1:
                 mathMenu()
             elif option == 2:
@@ -93,11 +93,14 @@ def runMathOptions():
             if option == 1:
                 sub_menu()
             elif option == 2:
-               factorial.tester1()     
+              factorial.tester1()
+              menu()
             elif option == 3:
               fibonacci.fibonacci()
+              menu()
             elif option == 4:
-              primes.gcd()  
+              primes.gcd()
+              menu()
             elif option == 5:  
                 print('Goodbye!')
                 exit() 
