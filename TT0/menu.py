@@ -2,30 +2,29 @@ import time
 from TT1 import fibonacci
 from TT1 import lists
 from TT2 import factorial
+from TT2 import primes
 
 def menu():
-    print('1 -- Swap Numbers' )
+    print('1 -- Math' )
     print('2 -- Animation' )
-    print('3 -- TT1')
+    print('3 -- Lists')
     print('4 -- Exit' )
     runOptions()
 
+def mathMenu():
+    print('1 -- Swap Numbers' )
+    print('2 -- Factorial' )
+    print('3 -- Fibonacci')
+    print('4 -- Primes')
+    print('5 -- Exit' )
+    runMathOptions()
+  
 def sub_menu():
     print('1 -- Bigger number First')
     print('2 -- Smaller number First')
     print('3 -- Return')
     print('4 -- Exit')
     subOptions()
-
-def submenu1():
-    print('1 -- Factorial', )
-    print('2 -- Lists')
-    print('3 -- Fibonacci')
-    print('4 -- Exit')
-    suboptions1()
-
-def num_swap():
-    sub_menu()
 
 def animation():
     ship()
@@ -47,30 +46,6 @@ def swap():
       except ValueError:
           print('Invalid input. Please enter an integer input.')
     
-def suboptions1():
-    while True:
-        try:
-            option = int(input('Enter your choice 1-4: '))
-
-            if option == 1:
-              factorial.tester1()
-              time.sleep(2)
-              menu()
-            elif option == 2:
-              lists.tester()
-              time.sleep(2)
-              menu()
-            elif option == 3:
-              fibonacci.fibonacci()
-              time.sleep(2)
-              menu()
-            elif option == 4:  
-                print('Goodbye!')
-                exit() 
-            else:
-                print('Invalid option. Please enter a number between 1 and 4.')
-        except ValueError:
-            print('Invalid input. Please enter an integer input.')
 
 def subOptions():
     while True:
@@ -97,13 +72,33 @@ def runOptions():
         try:
             option = int(input('Enter your choice 1-3: '))
             if option == 1:
-                num_swap()
+                mathMenu()
             elif option == 2:
                 animation()
                 menu()    
             elif option == 3:
-              submenu1()
+              lists.tester()
             elif option == 4:  
+                print('Goodbye!')
+                exit() 
+            else:
+                print('Invalid option. Please enter a number between 1 and 4.')
+        except ValueError:
+            print('Invalid input. Please enter an integer input.')
+
+def runMathOptions():
+    while True:
+        try:
+            option = int(input('Enter your choice 1-3: '))
+            if option == 1:
+                sub_menu()
+            elif option == 2:
+               factorial.tester1()     
+            elif option == 3:
+              fibonacci.fibonacci()
+            elif option == 4:
+              primes.primes()  
+            elif option == 5:  
                 print('Goodbye!')
                 exit() 
             else:
