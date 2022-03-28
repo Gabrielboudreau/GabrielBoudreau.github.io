@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Gabrielboudreau 
-YashShah138
-/
-Data_Structures1
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Data_Structures1/tt2/classes.py /
-@YashShah138
-YashShah138 FIXED THE BUG
-Latest commit 30c814f 2 days ago
- History
- 1 contributor
-95 lines (78 sloc)  2.49 KB
-  
 import re
 
 
@@ -120,16 +92,3 @@ def pali_tester():
   test_data3()
   print("Phrase 4: Slash slash slash")
   test_data4()
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
