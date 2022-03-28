@@ -148,7 +148,7 @@ Crowdsourcing (Spotify) ex:
 - Digital divide: unequal distribution of access to technology
 
 
-## **5.4 Questions**
+## **5.5 Questions**
 
 **When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.**
 
