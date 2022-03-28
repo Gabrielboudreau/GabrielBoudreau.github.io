@@ -15,8 +15,9 @@ def mathMenu():
     print('1 -- Swap Numbers' )
     print('2 -- Factorial' )
     print('3 -- Fibonacci')
-    print('4 -- GCD')
-    print('5 -- Exit' )
+    print('4 -- Sequential Sum(OOP)')
+    print('5 -- Sequential Sum(Imperative)')
+    print('6 -- Exit' )
     runMathOptions()
   
 def sub_menu():
@@ -99,9 +100,12 @@ def runMathOptions():
               fibonacci.fibonacci()
               menu()
             elif option == 4:
-              GCD.gcd()
+              classes.consec_print
               menu()
-            elif option == 5:  
+            elif option == 5:
+              classes.seq_sum
+              menu()        
+            elif option == 6:  
                 print('Goodbye!')
                 exit() 
             else:
