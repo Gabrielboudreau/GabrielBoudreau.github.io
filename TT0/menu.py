@@ -3,6 +3,8 @@ from TT1 import fibonacci
 from TT1 import lists
 from TT2 import factorial
 from TT2 import math
+from TT2 import palindrome
+
 
 def menu():
     print('1 -- Math' )
@@ -17,7 +19,8 @@ def mathMenu():
     print('3 -- Fibonacci')
     print('4 -- Sequential Sum(OOP)')
     print('5 -- Sequential Sum(Imperative)')
-    print('6 -- Exit' )
+    print('6 -- Palindrome')
+    print('7 -- Exit' )
     runMathOptions()
   
 def sub_menu():
@@ -90,7 +93,7 @@ def runOptions():
 def runMathOptions():
     while True:
         try:
-            option = int(input('Enter your choice 1-3: '))
+            option = int(input('Enter your choice 1-7: '))
             if option == 1:
                 sub_menu()
             elif option == 2:
@@ -104,8 +107,11 @@ def runMathOptions():
               menu()
             elif option == 5:
               classes.seq_sum
-              menu()        
-            elif option == 6:  
+              menu()
+            elif option == 6:
+                palindrome.palindrome()
+                menu()
+            elif option == 7:
                 print('Goodbye!')
                 exit() 
             else:
