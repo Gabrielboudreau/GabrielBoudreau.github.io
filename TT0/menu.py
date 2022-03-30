@@ -4,6 +4,7 @@ from TT1 import lists
 from TT2 import factorial
 from TT2 import math
 from TT2 import palindrome
+from TT0 import matrix
 
 
 def menu():
@@ -20,7 +21,8 @@ def mathMenu():
     print('4 -- Sequential Sum(OOP)')
     print('5 -- Sequential Sum(Imperative)')
     print('6 -- Palindrome')
-    print('7 -- Exit' )
+    print('7 -- Matrix')
+    print('8 -- Exit')
     runMathOptions()
   
 def sub_menu():
@@ -110,8 +112,10 @@ def runMathOptions():
               menu()
             elif option == 6:
                 palindrome.palindrome()
-                menu()
             elif option == 7:
+                matrix.matrix()
+                menu()
+            elif option == 8:
                 print('Goodbye!')
                 exit() 
             else:
@@ -157,3 +161,4 @@ def ship():
     for position in range(start, distance, step):
         ship_print(position) 
         time.sleep(.1)
+
