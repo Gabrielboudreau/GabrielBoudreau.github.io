@@ -1,5 +1,5 @@
 import time
-from TT0 import Matrix
+from TT0 import matrix
 from TT1 import fibonacci
 from TT1 import lists
 from TT2 import factorial
