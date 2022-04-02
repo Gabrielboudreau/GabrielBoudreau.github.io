@@ -1,4 +1,5 @@
 import time
+from TT0 import Matrix
 from TT1 import fibonacci
 from TT1 import lists
 from TT2 import factorial
@@ -11,7 +12,8 @@ def menu():
     print('1 -- Math' )
     print('2 -- Animation' )
     print('3 -- Lists')
-    print('4 -- Exit' )
+    print('4 -- Matrix')
+    print('5 -- Exit' )
     runOptions()
 
 def mathMenu():
@@ -84,7 +86,9 @@ def runOptions():
                 menu()    
             elif option == 3:
               lists.tester()
-            elif option == 4:  
+            elif option == 4:
+              matrix.matrix()
+            elif option == 5:  
                 print('Goodbye!')
                 exit() 
             else:
