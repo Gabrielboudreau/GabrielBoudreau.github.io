@@ -12,8 +12,7 @@ def menu():
     print('1 -- Math' )
     print('2 -- Animation' )
     print('3 -- Lists')
-    print('4 -- Matrix')
-    print('5 -- Exit' )
+    print('4 -- Exit' )
     runOptions()
 
 def mathMenu():
@@ -86,9 +85,7 @@ def runOptions():
                 menu()    
             elif option == 3:
               lists.tester()
-            elif option == 4:
-              matrix.matrix()
-            elif option == 5:  
+            elif option == 4:  
                 print('Goodbye!')
                 exit() 
             else:
