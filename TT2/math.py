@@ -1,6 +1,6 @@
 import re
        
-def seq_sum():
+def seq():
   num = int(input("Enter a number for your sequential sum: "))
   n = 0
   if num <= 0:
@@ -22,7 +22,7 @@ class Consec_Nums:
         n = n + i
       print("The sum of all the numbers from 1 to", self.num, "is", n)
 
-def consec_print():
+def consec():
   inp = int(input("Enter a number you want to find the sequential sum of: "))
   func = Consec_Nums(inp)
   func()

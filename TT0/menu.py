@@ -106,10 +106,10 @@ def runMathOptions():
               fibonacci.fibonacci()
               menu()
             elif option == 4:
-              math.consec_print
+              math.consec()
               menu()
             elif option == 5:
-              math.seq_sum
+              math.seq()
               menu()
             elif option == 6:
                 palindrome.palindrome()
