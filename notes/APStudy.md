@@ -1,3 +1,4 @@
+{% include navigation.html %}
 
 4/18: Review Videos in preperation for practice quizzes. Review previous test corrections and mistakes to practice struggeling topics. 
 
